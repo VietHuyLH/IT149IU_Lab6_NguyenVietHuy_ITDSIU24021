@@ -1,0 +1,16 @@
+Raw e-mail entries: 16
+Unique normalized e-mails: 12
+  dung.le@outlook.com
+  giang.ho@gmail.com
+  em.vo@outlook.com
+  binh.tran@gmail.com
+  chi.pham@gmail.com
+  giang.ho@hcmiu.edu.vn
+  chi.pham@hcmiu.edu.vn
+  binh.tran@hcmiu.edu.vn
+  an.nguyen@outlook.com
+  giang.ho@outlook.com
+  dung.le@gmail.com
+  an.nguyen@gmail.com
+Domain counts (all valid raw entries): {'gmail.com': 7, 'hcmiu.edu.vn': 4, 'outlook.com': 5}
+Task 2 checks: PASS

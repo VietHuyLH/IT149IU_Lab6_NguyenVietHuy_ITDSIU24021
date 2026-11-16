@@ -1,0 +1,5 @@
+Anagram groups: [['onset', 'notes', 'stone'], ['google', 'gogole'], ['enlist', 'tinsel', 'silent', 'listen'], ['dusty', 'study']]
+Indexed terms: 22
+Search AND ('python', 'sets'): ['D1', 'D6']
+Search OR ('python', 'sets'): ['D1', 'D2', 'D6']
+Task 6 checks: PASS

@@ -1,0 +1,21 @@
+Staff table:
+ID       Name               Branch       Salary
+------------------------------------------------
+E1001    David Le           DN          1850.00
+E1002    Cindy Pham         HN          2200.00
+E1003    Binh Tran          DN          1050.00
+E1004    Irene Do           HN          1250.00
+E1005    Frank Dang         CT          1000.00
+E1006    Mona Cao           CT          2050.00
+E1007    Kelly Mai          HCM         1500.00
+E1008    Henry Bui          DN          1400.00
+E1009    Grace Ho           CT          1950.00
+E1010    Nick Dinh          HN          1550.00
+E1011    Leo Truong         HCM         1600.00
+E1012    Jack Ly            HCM         1300.00
+
+Staff count by branch: {'CT': 3, 'DN': 3, 'HCM': 3, 'HN': 3}
+Average salary by branch: {'CT': 1666.67, 'DN': 1433.33, 'HCM': 1466.67, 'HN': 1666.67}
+Highest paid: ('E1002', {'name': 'Cindy Pham', 'branch': 'HN', 'salary': 2200})
+Raised salary by 5% in CT: 3 records updated
+Task 5 checks: PASS

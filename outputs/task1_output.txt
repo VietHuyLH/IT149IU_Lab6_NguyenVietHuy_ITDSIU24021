@@ -1,0 +1,9 @@
+Chess members: ['Chi', 'Em', 'Giang', 'Hoa', 'Nam', 'Oanh', 'Phuc']
+Robotics members: ['Chi', 'Em', 'Lan', 'Minh', 'Nam', 'Phuc', 'Quyen']
+Music members: ['Binh', 'Hoa', 'Khang', 'Lan', 'Nam', 'Phuc', 'Quyen']
+In all three clubs: ['Nam', 'Phuc']
+Only chess: ['Giang', 'Oanh']
+In exactly two clubs: ['Chi', 'Em', 'Hoa', 'Lan', 'Quyen']
+In at least one club: ['Binh', 'Chi', 'Em', 'Giang', 'Hoa', 'Khang', 'Lan', 'Minh', 'Nam', 'Oanh', 'Phuc', 'Quyen']
+Robotics XOR music: ['Binh', 'Chi', 'Em', 'Hoa', 'Khang', 'Minh']
+Task 1 checks: PASS

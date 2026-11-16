@@ -1,0 +1,5 @@
+Total words: 39
+Distinct words: 29
+Top 10: [('the', 4), ('a', 2), ('and', 2), ('data', 2), ('dictionary', 2), ('keys', 2), ('unique', 2), ('values', 2), ('became', 1), ('clean', 1)]
+Longest word: dictionary
+Task 3 checks: PASS

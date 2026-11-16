@@ -1,0 +1,6 @@
+Merged inventory: {'pen': 13, 'book': 4, 'pencil': 8}
+Input A unchanged: {'pen': 10, 'book': 4}
+Input B unchanged: {'pen': 3, 'pencil': 8}
+Unique tags: ['beginner', 'data', 'python']
+After removing zero quantities: {'pen': 10, 'pencil': 5}
+Task 4 checks: PASS
